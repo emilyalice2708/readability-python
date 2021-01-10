@@ -2,7 +2,7 @@
 
 ## About
 
-Project created in Python for Harvard Online CS50 Introduction to Computer Science problem set 2 within the CS50 IDE (integrated development environment for students and teachers).
+Project created in Python for Harvard Online CS50 Introduction to Computer Science Problem Set 2 within the CS50 IDE (integrated development environment for students and teachers).
 This programme takes strings as input and calculates the numbers of letters, words and sentences to recommend the reading grade level of the writing.
 
 ## Usage
