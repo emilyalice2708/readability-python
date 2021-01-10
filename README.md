@@ -5,6 +5,14 @@
 Project created in Python for Harvard Online CS50 Introduction to Computer Science problem set 2.
 This programme takes strings as input and calculates the numbers of letters, words and sentences to recommend the reading grade level of the writing.
 
+## Usage
+
+```
+$ python readability.py
+Text: Congratulations! Today is your day. You're off to Great Places! You're off and away!
+Grade 3
+```
+
 ## Course Guidelines
 
 Specification
